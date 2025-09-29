@@ -1,0 +1,7 @@
+1|Kung Pao Chicken|Chinese Cuisine|8|
+2|Nasi Goreng Kampung|Malay Cuisine|7|
+3|Nasi Ayam Kunyit|Malay Cuisine|7.5|
+4|Cendol|Drinks|4|
+6|Chinese Tea|Drinks|1.5|
+5|Roasted Duck|Chinese Cuisine|10|
+7|Roasted Pork|Chinese Cuisine|8|
